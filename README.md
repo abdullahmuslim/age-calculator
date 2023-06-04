@@ -1,4 +1,4 @@
-a# Frontend Mentor - Age calculator app solution
+# Frontend Mentor - Age calculator app solution
 
 This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -11,10 +11,10 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
+This project is designed to make calculating time that has past after an event easier and more comprehensible.
 
 ### The challenge
 
@@ -41,6 +41,11 @@ Users should be able to:
 - Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
+Looking at the [desktop](design/desktop-design.jpg) and the [mobile design](design/mobile-design.jpg)
+- Knew the design are very similar and needed only few changes.
+- I positioned the button `absolute`ly for easier transitioning across display
+- I give the form a `border-bottom` for the grayish line below the inputs in the [screenshot](#screenshot).
+- I have to do some extended research on the Javascript side, but can't find something that suite my liking, gained some knowledge in the process though. I leave my own stuff there.
 
 ### Built with
 
@@ -50,8 +55,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-
-### Continued development
+Just realised separate fonts is recommended for different font style too 😀.
 
 ## Author
 
